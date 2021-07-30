@@ -103,5 +103,5 @@ theme: jekyll-theme-cayman
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo：git@github.com:wuzichi/wuzichi.github.io.git
+  repo：https://github.com/wuzichi/wuzichi.github.io.git
   branch: master
