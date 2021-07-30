@@ -1,17 +1,17 @@
 # Site settings
-title:Zeeik’s Blog
+title:Zeeik’s Blogs
 SEOTitle: Zeeik’s Blogs | 77
 header-img: img/post-bg-desk.jpg
 email: wuzichi@qq.com
 description: "Welcome to my blogs"
 keyword: "Zeeik’s Blogs"
-url: "http://wuzichi.github.io"          # your host, for absolute URL
+url: "https://blog.wzc.space"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wuzichi/wuzichi.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Zeeki"
+sidebar-about-description: "Zeeki Woo"
 sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
