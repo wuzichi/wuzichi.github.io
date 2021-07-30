@@ -1,10 +1,10 @@
 # Site settings
-title: My Blog
-SEOTitle: 我的博客 | My Blog
+title: Zeeik’s Blogs
+SEOTitle: Zeeik’s Blogs | 77
 header-img: img/post-bg-desk.jpg
 email: 暂无
-description: "写一句你想写的话"
-keyword: "我的博客"
+description: "Welcome to my blogs"
+keyword: "Zeeik’s Blog"
 url: "http://wuzichi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wuzichi/wuzichi.github.io.git" # you code repository
