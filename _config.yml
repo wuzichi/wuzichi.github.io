@@ -104,9 +104,5 @@ friends: [
 ]
 
 navbar-links:
-  Home: "https://zoharandroid.github.io"
-  标签: "https://zoharandroid.github.io/tags/"
-  项目:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  关于我: "aboutme"
+  
   搜索: "search"
