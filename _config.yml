@@ -11,8 +11,8 @@ github_repo: "https://github.com/wuzichi/wuzichi.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "略略略"
+sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
