@@ -26,7 +26,13 @@ SimpleJekyllSearch({
   })
 </script>
 <br/>
-
+<div class="dropdown navbar-form navbar-right ">
+   <input  id="dLabel" name="word" type="text"  aria-haspopup="true" aria-expanded="false" data-toggle="dropdown" class="form-control typeahead"   placeholder="搜索">
+  
+  <ul class="dropdown-menu" aria-labelledby="dLabel" id="c">
+    
+  </ul>
+</div>
 <!-- Page Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
