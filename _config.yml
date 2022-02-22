@@ -3,7 +3,7 @@ title: Zeeik’s Blogs
 SEOTitle: Zeeik’s Blogs | 77
 header-img: img/post-bg-desk.jpg
 email: wuzichi@qq.com
-description: "Welcome to my blogs"
+description: "77der技术小屋"
 keyword: "Zeeik’s Blogs"
 url: "https://zeeki.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -23,7 +23,7 @@ RSS: false
 github_username: wuzichi
 #facebook_username:  暂无
 #jianshu_username:   暂无
-twitter_username: ZeekiWoo
+#twitter_username:
 
 
 
