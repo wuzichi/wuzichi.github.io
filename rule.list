@@ -1,2 +1,2 @@
-
-DOMAIN,healthcheck.argent.xyz
+payload:
+  - DOMAIN,healthcheck.argent.xyz
